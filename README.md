@@ -1,1 +1,1 @@
-﻿# La rama nombresa "shel" contiene el proyecto actualizado
+﻿# La rama nombrada "shel" contiene el proyecto actualizado
